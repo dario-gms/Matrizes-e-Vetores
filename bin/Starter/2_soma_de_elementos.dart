@@ -7,5 +7,4 @@ void main() {
     soma += vetor[i];
   }
   print('A soma dos elementos do vetor é: $soma');
-
 }

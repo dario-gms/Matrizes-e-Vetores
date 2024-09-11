@@ -1,6 +1,6 @@
 //Maior e menor valor: Crie um vetor de 10 números e determine o maior e o menor valor.
 
-void main(){
+void main() {
   List<int> vetor = [12, 5, 32, 45, 99, 56, 34, 23];
   int maior = vetor[0];
   int menor = vetor[0];
